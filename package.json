@@ -1,11 +1,11 @@
 {
-  "name": "CASEYRHODES XMD",
+  "name": "LUCk MD",
   "version": "2.0.0",
   "description": "",
-  "main": "casey.js",
+  "main": "luck.js",
   "scripts": {
-    "test": "node casey.js",
-    "s": "node casey.js",
+    "test": "node luck.js",
+    "s": "node luck.js",
     "toshtech": "pm2 start casey.js --attach",
     "toshtech": "pm2 start casey.js --attach",
     "c": "tsc"
@@ -13,12 +13,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "CASEYRHODES XMD",
+    "LUCK MD",
     "whatsapp",
     "whatsapp-bot",
-    "CASEYRHODES XMD"
+    "luck MD"
   ],
-  "author": "CASEYRHODES",
+  "author": "Luck md",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
